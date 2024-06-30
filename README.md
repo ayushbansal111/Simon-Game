@@ -9,9 +9,6 @@ If the player presses the wrong key at any point in the game, the game ends and 
 ## Technologies Used
 The Simon Game was developed using HTML, CSS, and JavaScript. The HTML and CSS are responsible for creating the game's user interface, while the JavaScript is responsible for the game's logic and functionality.
 
-## Demo
-You can view a live demo of the Simon Game https://priyanshu1101.github.io/simongame/.
-
 ## Contributing
 If you would like to contribute to this project, please fork the repository and submit a pull request. All contributions are welcome!
 
